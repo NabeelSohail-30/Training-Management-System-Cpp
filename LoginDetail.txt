@@ -1,0 +1,8 @@
+nabeel@outlook.com,nabeel123
+admin@admin.com,123admin
+ssuet@admin.com,ssuet
+ssuet@bscs.com,bscs
+code@coder.com,code123
+hacker@cyber.com,hack123
+hacker123@hack.com,hackme
+ait@gmail.com,ait123

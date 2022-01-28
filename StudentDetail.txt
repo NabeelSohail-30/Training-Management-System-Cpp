@@ -1,0 +1,6 @@
+211,Mohammad Nabeel,Sohail Habib,30-11-2000,422010-101645-2,British,Male,Islam,0321-3628868,nabeel@outlook.com,Software Engineer
+212,Talha,Saeed,12-3-20001,462610-0141815-3,Pakistani,Male,Islam,0345-3523445,talha@gmail.com,UI/UX Designer
+213,Zohaib,Abdullah,23-05-2001,420651-233655-2,Indian,Male,Islam,0321-5648792,123zoh@yahoo.com,student
+214,Fatima,Faisal,25-1-2003,45987-2236643-2,Pakistani,Female,Islam,0322-56988456,fatima02@gmail.com,Student
+215,Mohsin,Haider,5-8-2001,45662-893246-6,Pakistani,Male,Islam,021-5644965,mohsin@hotmail.com,Student
+521,Shahzaib,Mehboob,25-3-1999,21054-223365-5,Pakistani,Male,Islam,021-9844566,kabli@gmail.com,Buisness Owner
